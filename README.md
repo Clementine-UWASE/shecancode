@@ -1,2 +1,3 @@
 # shecancode
-all project on shecancode
+# my first repo in shecancode
+
